@@ -7,6 +7,7 @@ const runApp = async () => {
         // ...and any other configuration
     });
 
+    //change address wallet here
     const address = 'HhBXHoJCgMNyPRCx3qVEqHnUFNZpsUnfLDZBNK8gmvgh';
 
     const network = SolNetwork.MAINNET;
